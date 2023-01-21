@@ -1,1 +1,1 @@
-# we-storage
+# storage
